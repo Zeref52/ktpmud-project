@@ -1,8 +1,8 @@
 {
   "case_study_slug": "hoang_mai_toan",
-  "case_study_id": "REPLACE_VOI_MA_BKT",
-  "group_code": "REPLACE_VOI_MA_NHOM_VD_nhom07",
-  "members": ["MSSV1", "MSSV2", "MSSV3"],
+  "case_study_id": "BKT-2",
+  "group_code": "nhom05",
+  "members": ["20233305", "20233410", "20233544"],
   "scenario": "khong_ap_dung",
-  "submitted_at": "YYYY-MM-DD"
+  "submitted_at": "2026-11-10"
 }
